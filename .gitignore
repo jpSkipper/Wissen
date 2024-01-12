@@ -1,4 +1,3 @@
-# Ignoriere alle Dateien mit der Endung .log
 *.log
 *.aux
 *.fdb_latexmk
